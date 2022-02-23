@@ -3,4 +3,5 @@
 ### I'm a QA Engineer (experience - 2 years). I'm interesting in test automation.
 ### Examples of my project:
 :heavy_check_mark: https://github.com/belovaoa/goldapple_autotest
+
 :heavy_check_mark: https://github.com/belovaoa/Homework18_API
