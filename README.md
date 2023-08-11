@@ -1,6 +1,6 @@
 ## :wink: Hi!
 ### My name is Olesya Belova. I am happy to welcome you on my github page.
-### I'm a QA Engineer (experience - 2 years). I'm interesting in test automation.
+### I'm a QA Engineer (experience - 3 years, manual testing). I'm interesting in test automation.
 ### Examples of my project:
 :heavy_check_mark: https://github.com/belovaoa/goldapple_autotest
 
